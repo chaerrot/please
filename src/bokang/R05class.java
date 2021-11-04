@@ -52,8 +52,8 @@ public class R05class
 		cc2_1.showState();
 		
 		CheckCard3 cc3 = new CheckCard3(3333_4444_5555_6666L, "서채은", 10000, 0);
-		cc3.charge(20000);
-		cc3.payment(10000);
+		cc3.charge(5000);
+		cc3.payment(50000);
 		cc3.showState();
 	}
 }
